@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 39f75ff0dcebd6c4c838bd1a15749118
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pfloor: {instanceID: 0}
+  - pceil: {instanceID: 0}
+  - Ceilling: {instanceID: 0}
+  - Floor: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - ob1: {instanceID: 0}
+  - ob2: {instanceID: 0}
+  - ob3: {instanceID: 0}
+  - ob4: {instanceID: 0}
+  - obPrefab: {fileID: 1728648613769779448, guid: 5823905927ff29d44bbfefe6d3e0a6d7,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
